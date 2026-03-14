@@ -55,6 +55,8 @@ Puedes cambiar:
 
 ## Vista previa
 
-![Vista previa](images/vista-previa.jpg)
+<img src="images/vista-previa.jpg" width="400" alt="vista-previa-interfaz">
+
+
 
 
