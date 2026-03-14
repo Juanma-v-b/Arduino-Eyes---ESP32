@@ -1,4 +1,4 @@
-# ESP32 Eyes 
+# ESP32 Eyes 👀
 
 ![Arduino](https://img.shields.io/badge/plataforma-Arduino-blue)
 ![ESP32](https://img.shields.io/badge/board-ESP32-red)
